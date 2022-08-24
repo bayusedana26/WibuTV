@@ -1,0 +1,7 @@
+node_modules/
+public/images/
+.env.development
+.env.test
+config.json
+access.log
+coverage
